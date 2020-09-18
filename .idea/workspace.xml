@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b46666-5c08-4eda-9a5e-59671643d86d" name="Default Changelist" comment="Commit." />
+    <list default="true" id="d2b46666-5c08-4eda-9a5e-59671643d86d" name="Default Changelist" comment="Commit.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,5 +47,11 @@
     <MESSAGE value="First Commit." />
     <MESSAGE value="Commit." />
     <option name="LAST_COMMIT_MESSAGE" value="Commit." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1600391066154">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/-2560.-238.1280.700/0.0.1440.860@0.0.1440.860" timestamp="1600391066154" />
   </component>
 </project>
